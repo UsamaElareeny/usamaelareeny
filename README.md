@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Usama Elareeny 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/your-image-here.gif" alt="coding" width="200"/>
-</p>
+<a href="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF">
+</a>
 
 <p align="center">
   I'm a <strong>Software Engineer</strong> from Egypt, currently mastering my craft in **React.js**.
@@ -13,19 +13,17 @@
 ### About Me:
 
 - 🧑‍💻 I’m a Developer | Programmer | Learner
-- 🌱 Currently learning **React.js**, **.NET Core**, and **Machine Learning**
-- 🎯 Looking to contribute more to **Open Source Projects**
-- 💬 Feel free to ask me about **JavaScript**, **.NET**, or **Web Development**
+- 🌱 Currently learning **React.js** and **.NET Core**
+- 🎯 Looking to contribute more to **Open Source Projects** 
+- 💬 Feel free to ask me about **Web Development**
 
 ---
 
 ### Connect with me:
 <p align="center">
   <a href="https://github.com/UsamaElareeny"><img src="https://img.icons8.com/clouds/100/000000/github.png" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/your-profile"><img src="https://img.icons8.com/clouds/100/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/your-profile"><img src="https://img.icons8.com/clouds/100/000000/instagram.png" alt="Instagram"/></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/usamaelareeny"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/usamam2011202"><img src="https://img.icons8.com/clouds/100/000000/facebook.png" alt="Facebook"/></a>
 </p>
 
 ---
