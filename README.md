@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF">
 </p>
 
----
+
 ### About Me:
 
 - 🧑‍💻 I’m a Developer | Programmer | Learner
