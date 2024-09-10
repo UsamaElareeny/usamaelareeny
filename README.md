@@ -43,13 +43,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaelareeny&show_icons=true&locale=en&layout=compact" alt="usamaelareeny" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaelareeny&show_icons=true&locale=en&layout=compact&theme=dark" alt="usamaelareeny" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamaelareeny&show_icons=true&locale=en" alt="usamaelareeny" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaelareeny&theme=dark" alt="usamaelareeny" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaelareeny&" alt="usamaelareeny" />
-</p>
