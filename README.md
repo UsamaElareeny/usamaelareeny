@@ -4,8 +4,9 @@
   I'm a <strong>Software Engineer</strong> from Egypt, currently mastering my craft in **React.js**.
 </p>
 
-[![GIF](https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif)](https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2)
-
+<a align="center" href="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF">
+</a>
 ---
 
 ### About Me:
