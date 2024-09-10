@@ -1,18 +1,17 @@
 <h1 align="center">Hi there, I'm Usama Elareeny 👋</h1>
 
 <p align="center">
-  I'm a <strong>Software Engineer</strong> from Egypt, currently mastering my craft in **React.js**.
+  I'm a <strong>Software Engineer</strong> from Egypt.
 </p>
 
-<a align="center" href="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2">
+<p align="center" href="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF">
-</a>
----
+</p>
 
 ### About Me:
 
 - 🧑‍💻 I’m a Developer | Programmer | Learner
-- 🌱 Currently learning **React.js** and **.NET Core**
+- 🌱 Currently mastering my craft of **React.js**
 - 🎯 Looking to contribute more to **Open Source Projects** 
 - 💬 Feel free to ask me about **Web Development**
 
