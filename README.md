@@ -1,4 +1,6 @@
-[![MasterHead](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;">
+</h1>
 <h1 align="center">Hi 👋, I'm Usama Elareeny</h1> <h3 align="center">A Passionate Software Engineer from Egypt</h3> <img align="right" alt="coding" width="400" src="https://media.tenor.com/0dO6QUHVSyEAAAAM/yellow-mm.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaelareeny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 🌱 I’m currently enhancing my skills in React.js
 📫 Reach me at uelareeny@gmail.com.eg
